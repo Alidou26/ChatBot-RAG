@@ -1,0 +1,12 @@
+.venv/
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+chroma_db/
+uploads/
+venv/
+frontend/venv/
+.idea/
+.vscode/
+
