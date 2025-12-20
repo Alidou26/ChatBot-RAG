@@ -19,6 +19,7 @@
 </div>
 
 # [Video Démonstration](https://drive.google.com/file/d/1-ywtd9EggAKQTIJjwxZUoYZfcXjqBXJq/view?usp=sharing)
+Cliquez sur Video Démonstration au dessus
 Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
 
 
@@ -109,8 +110,7 @@ La solution est conçue pour être déployée entièrement on‑premise, avec mo
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/AchrafEssaleh/AI-Assistant-for-Technical-Knowledge-Management.git
-cd AI-Assistant-for-Technical-Knowledge-Management
+git clone https://github.com/Alidou26/ChatBot-RAG.git
 ```
 
 ### 2. Prérequis
