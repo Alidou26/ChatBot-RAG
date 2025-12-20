@@ -18,7 +18,7 @@
   
 </div>
 
-# [Video Démonstration](https://drive.google.com/file/d/1j_fFIZO1UCVzL9FBF4Yu5ooe13vhHvZ8/view?usp=sharing)
+# [Video Démonstration](https://drive.google.com/file/d/1-ywtd9EggAKQTIJjwxZUoYZfcXjqBXJq/view?usp=sharing)
 Si le lien ne marche pas, considérez de copier lien et de le coller dans la barre de recherche.
 
 
@@ -115,8 +115,8 @@ cd AI-Assistant-for-Technical-Knowledge-Management
 
 ### 2. Prérequis
 
-- Python 3.10 ou supérieur (macOS / Linux / Windows).[^1]
-- Navigateur moderne pour accéder à l’interface Streamlit.[^1]
+- Python 3.10 ou supérieur (macOS / Linux / Windows).
+- Navigateur moderne pour accéder à l’interface Streamlit.
 
 
 ### 3. Créer et activer un environnement virtuel
