@@ -129,7 +129,7 @@ git clone https://github.com/Alidou26/ChatBot-RAG.git
 Depuis la racine du projet, il faut créer un venv dans chaque sous-dossier (backend et frontend) puis l’activer en se plaçant dedans.
 
 
-
+#### Utiliser python 3.12
 
 ### macOS / Linux :
 
